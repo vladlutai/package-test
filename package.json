@@ -1,15 +1,13 @@
 {
-  "name": "com.zemind.starterkit",
-  "displayName": "Zemind Starter Kit",
-  "version": "0.0.1",
+  "name": "ca.zemind.starterkit",
+  "displayName": "ZeMind Starter Kit",
+  "version": "0.0.2",
   "unity": "2019.2",
   "keywords": [
-    "UI",
-    "ugui",
-    "Unity UI",
-    "Canvas"
+    "ZeMind",
+    "Starter Kit"
   ],
-  "description": "This is a new Zemind Starter Kit to simplify Unity developers' work.",
+  "description": "This is a new ZeMind Starter Kit to simplify Unity developers' work.",
   "dependencies": {
     "com.unity.textmeshpro": "1.0.0"
   }
